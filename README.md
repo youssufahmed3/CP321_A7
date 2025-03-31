@@ -50,3 +50,4 @@ plan for students. https://www.youtube.com/watch?v=H16dZMYmvqo
 * West Germany and Germany should be considered the same country for the purpose
 of this assignment.
 
+![image](https://github.com/user-attachments/assets/88ab4741-c253-4c9d-a307-b4937cfc6407)
